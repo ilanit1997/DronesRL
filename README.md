@@ -1,8 +1,12 @@
 # DronesRL
 
 # The assignment
-Simulation in which drones deliver packages to clients using Reinforcement Learning methods (deterministic and probabilistic).
-The following 3 part project origin is - course 096210 "Introduction to AI", the Technion – Israel Institute of Technology, winter 2021. 
+
+Drones deliver packages to clients using Reinforcement Learning methods (deterministic and probabilistic).
+
+The following 3 part project origin is - course 096210 "Introduction to AI", the Technion – Israel Institute of Technology, winter 2021.
+
+
 
 # Part 1 - Deterministic Problem
 
