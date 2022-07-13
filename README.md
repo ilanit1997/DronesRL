@@ -1,7 +1,7 @@
 # DronesRL
 
 # The assignment
-Drones deliever packages to clients using Reinforcement Learning methods (deterministic and probabilistic)
+Simulation in which drones deliver packages to clients using Reinforcement Learning methods (deterministic and probabilistic)
 
 # Part 1 - Deterministic Problem
 
