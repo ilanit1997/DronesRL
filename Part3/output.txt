@@ -1,0 +1,177 @@
+INFO:root:IDS:: ['319000055', '318368107']
+INFO:root:input_id:: 0
+INFO:root:train score: 80.642725, time: 38.72
+INFO:root:test score: 89.0, time: 1.45
+INFO:root:input_id:: 1
+INFO:root:train score: -1.03926, time: 96.6
+INFO:root:test score: 86.1913, time: 1.55
+INFO:root:input_id:: 2
+INFO:root:train score: -6.98689, time: 98.34
+INFO:root:test score: 76.7628, time: 3.48
+INFO:root:input_id:: 3
+INFO:root:train score: -15.5068, time: 183.78
+INFO:root:test score: 182.3745, time: 4.38
+INFO:root:input_id:: 4
+INFO:root:train score: -5.22982, time: 182.33
+INFO:root:test score: 79.8271, time: 4.31
+INFO:root:input_id:: 5
+INFO:root:train score: -21.975145, time: 184.97
+INFO:root:test score: 126.5846, time: 7.7
+INFO:root:input_id:: 6
+INFO:root:train score: -24.53852, time: 157.48
+INFO:root:test score: 143.8078, time: 5.71
+INFO:root:input_id:: 7
+INFO:root:train score: -18.085675, time: 170.99
+INFO:root:test score: 232.3171, time: 7.09
+alpha=0.5, gamma=0.95:
+INFO:root:Done!
+[89.0, 86.1913, 76.7628, 182.3745, 79.8271, 126.5846, 143.8078, 232.3171]
+INFO:root:scores: [89.0, 86.1913, 76.7628, 182.3745, 79.8271, 126.5846, 143.8078, 232.3171]
+INFO:root:input_id:: 0
+INFO:root:train score: 80.688985, time: 73.88
+INFO:root:test score: 89.0, time: 1.48
+INFO:root:input_id:: 1
+INFO:root:train score: -1.044795, time: 194.91
+INFO:root:test score: 86.0991, time: 2.31
+INFO:root:input_id:: 2
+INFO:root:train score: -7.23595, time: 173.8
+INFO:root:test score: 77.6017, time: 4.14
+INFO:root:input_id:: 3
+INFO:root:train score: -15.49073, time: 218.9
+INFO:root:test score: 182.3365, time: 5.6
+INFO:root:input_id:: 4
+INFO:root:train score: -5.11618, time: 198.11
+INFO:root:test score: 79.8263, time: 6.48
+INFO:root:input_id:: 5
+INFO:root:train score: -21.938315, time: 203.93
+INFO:root:test score: 126.1333, time: 9.36
+INFO:root:input_id:: 6
+INFO:root:train score: -24.524055, time: 209.96
+INFO:root:test score: 140.6217, time: 13.56
+INFO:root:input_id:: 7
+INFO:root:train score: -17.974395, time: 236.54
+alpha=0.5, gamma=0.95:
+INFO:root:test score: 232.3286, time: 10.46
+[89.0, 86.0991, 77.6017, 182.3365, 79.8263, 126.1333, 140.6217, 232.3286]
+INFO:root:Done!
+INFO:root:scores: [89.0, 86.0991, 77.6017, 182.3365, 79.8263, 126.1333, 140.6217, 232.3286]
+INFO:root:input_id:: 0
+INFO:root:train score: 80.669075, time: 87.88
+INFO:root:test score: 89.0, time: 1.66
+INFO:root:input_id:: 1
+INFO:root:train score: -1.09767, time: 197.17
+INFO:root:test score: 86.063, time: 2.93
+INFO:root:input_id:: 2
+INFO:root:train score: -7.102285, time: 189.22
+INFO:root:test score: 77.1425, time: 5.14
+INFO:root:input_id:: 3
+INFO:root:train score: -15.570145, time: 238.78
+INFO:root:test score: 182.187, time: 5.58
+INFO:root:input_id:: 4
+INFO:root:train score: -5.156925, time: 198.66
+INFO:root:test score: 79.8291, time: 8.83
+INFO:root:input_id:: 5
+INFO:root:train score: -22.062085, time: 235.55
+INFO:root:test score: 126.1701, time: 8.78
+INFO:root:input_id:: 6
+INFO:root:train score: -24.518475, time: 209.1
+INFO:root:test score: 143.829, time: 9.41
+INFO:root:input_id:: 7
+INFO:root:train score: -18.247375, time: 223.58
+INFO:root:test score: 232.3252, time: 7.97
+alpha=0.5, gamma=0.95:
+INFO:root:Done!
+[89.0, 86.063, 77.1425, 182.187, 79.8291, 126.1701, 143.829, 232.3252]
+INFO:root:scores: [89.0, 86.063, 77.1425, 182.187, 79.8291, 126.1701, 143.829, 232.3252]
+INFO:root:input_id:: 0
+INFO:root:train score: 80.718815, time: 82.39
+INFO:root:test score: 89.0, time: 2.32
+INFO:root:input_id:: 1
+INFO:root:train score: -1.17342, time: 201.17
+INFO:root:test score: 86.1816, time: 3.53
+INFO:root:input_id:: 2
+INFO:root:train score: -7.24718, time: 234.88
+INFO:root:test score: 75.3621, time: 5.87
+INFO:root:input_id:: 3
+INFO:root:train score: -15.59399, time: 271.66
+INFO:root:test score: 182.616, time: 6.47
+INFO:root:input_id:: 4
+INFO:root:train score: -5.09713, time: 216.76
+INFO:root:test score: 79.826, time: 6.08
+INFO:root:input_id:: 5
+INFO:root:train score: -21.993845, time: 249.64
+INFO:root:test score: 125.5678, time: 9.46
+INFO:root:input_id:: 6
+INFO:root:train score: -24.59509, time: 240.09
+INFO:root:test score: 140.6095, time: 13.58
+INFO:root:input_id:: 7
+INFO:root:train score: -18.066675, time: 237.86
+INFO:root:test score: 232.38, time: 7.17
+alpha=0.5, gamma=0.95:
+[89.0, 86.1816, 75.3621, 182.616, 79.826, 125.5678, 140.6095, 232.38]
+INFO:root:Done!
+INFO:root:scores: [89.0, 86.1816, 75.3621, 182.616, 79.826, 125.5678, 140.6095, 232.38]
+INFO:root:input_id:: 0
+INFO:root:train score: 80.646505, time: 99.08
+INFO:root:test score: 89.0, time: 3.22
+INFO:root:input_id:: 1
+INFO:root:train score: -1.315205, time: 243.39
+INFO:root:test score: 85.9977, time: 3.19
+INFO:root:input_id:: 2
+INFO:root:train score: -7.13662, time: 196.66
+INFO:root:test score: 77.2997, time: 3.58
+INFO:root:input_id:: 3
+INFO:root:train score: -15.444215, time: 239.39
+INFO:root:test score: 182.5692, time: 7.3
+INFO:root:input_id:: 4
+INFO:root:train score: -5.22264, time: 285.86
+INFO:root:test score: 79.8292, time: 7.67
+INFO:root:input_id:: 5
+INFO:root:train score: -21.905925, time: 209.75
+INFO:root:test score: 127.4466, time: 8.5
+INFO:root:input_id:: 6
+INFO:root:train score: -24.503665, time: 243.08
+INFO:root:test score: 143.7898, time: 8.72
+INFO:root:input_id:: 7
+INFO:root:train score: -18.17366, time: 273.27
+INFO:root:test score: 232.3562, time: 7.4
+alpha=0.5, gamma=0.95:
+[89.0, 85.9977, 77.2997, 182.5692, 79.8292, 127.4466, 143.7898, 232.3562]
+INFO:root:Done!
+INFO:root:scores: [89.0, 85.9977, 77.2997, 182.5692, 79.8292, 127.4466, 143.7898, 232.3562]
+INFO:root:input_id:: 0
+INFO:root:train score: 80.629125, time: 119.55
+INFO:root:test score: 89.0, time: 3.33
+INFO:root:input_id:: 1
+INFO:root:train score: -1.01677, time: 197.48
+INFO:root:test score: 85.6949, time: 2.23
+INFO:root:input_id:: 2
+INFO:root:train score: -7.139505, time: 185.33
+INFO:root:test score: 76.339, time: 4.82
+INFO:root:input_id:: 3
+INFO:root:train score: -15.55424, time: 205.21
+INFO:root:test score: 182.5462, time: 3.98
+INFO:root:input_id:: 4
+INFO:root:train score: -5.158895, time: 187.96
+INFO:root:test score: 79.8348, time: 4.48
+INFO:root:input_id:: 5
+INFO:root:train score: -22.058685, time: 185.39
+INFO:root:test score: 127.3264, time: 9.26
+INFO:root:input_id:: 6
+INFO:root:train score: -24.57863, time: 211.14
+INFO:root:test score: 140.5663, time: 8.04
+INFO:root:input_id:: 7
+INFO:root:train score: -18.08506, time: 240.72
+INFO:root:test score: 232.3456, time: 5.73
+alpha=0.5, gamma=0.95:
+INFO:root:Done!
+INFO:root:scores: [89.0, 85.6949, 76.339, 182.5462, 79.8348, 127.3264, 140.5663, 232.3456]
+[89.0, 85.6949, 76.339, 182.5462, 79.8348, 127.3264, 140.5663, 232.3456]
+('2', [(76.339, 'alpha=0.5, gamma=0.95')])
+('4', [(79.8348, 'alpha=0.5, gamma=0.95')])
+('1', [(85.6949, 'alpha=0.5, gamma=0.95')])
+('0', [(89.0, 'alpha=0.5, gamma=0.95')])
+('5', [(127.3264, 'alpha=0.5, gamma=0.95')])
+('6', [(140.5663, 'alpha=0.5, gamma=0.95')])
+('3', [(182.5462, 'alpha=0.5, gamma=0.95')])
+('7', [(232.3456, 'alpha=0.5, gamma=0.95')])
